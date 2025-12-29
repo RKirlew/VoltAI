@@ -34,23 +34,23 @@ VoltAI acts as an **autonomous AI intake coordinator**:
 
 ## 🎯 Use Cases
 
-- ⚡ **Utility companies** (power, gas, water)
-- 🚧 **Field operations & dispatch teams**
-- 🏙️ **Municipal incident reporting**
-- 🛠️ **After-hours or overflow call handling**
-- 📞 **Replacing or augmenting 311 / emergency intake**
+-  **Utility companies** (power, gas, water)
+- **Field operations & dispatch teams**
+- **Municipal incident reporting**
+-  **After-hours or overflow call handling**
+-  **Replacing or augmenting 311 / emergency intake**
 
 ---
 
 ## ✨ Features
 
-- 🎙️ **Browser-based voice reporting**
-- 🧠 **AI-driven conversational intake**
-- 📝 **Automatic transcription & summarization**
-- 🚦 **Incident severity classification**
-- 🗺️ **Live map with incident markers**
-- 📦 **Structured incident records (ready for ops workflows)**
-- 🤖 **Autonomous confirmation & routing logic**
+-  **Browser-based voice reporting**
+-  **AI-driven conversational intake**
+-  **Automatic transcription & summarization**
+-  **Incident severity classification**
+-  **Live map with incident markers**
+- **Structured incident records (ready for ops workflows)**
+-  **Autonomous confirmation & routing logic**
 
 ---
 
@@ -113,12 +113,12 @@ VoltAI acts as an **autonomous AI intake coordinator**:
 
 ## 🚀 Future Plans
 
-- 📡 Real-time crew dispatch integration
-- 🧭 Automatic incident deduplication
-- 🧠 Historical incident pattern analysis
-- 📊 Operations dashboard & analytics
-- 📱 Mobile-first field reporting
-- 🔌 Integrations with existing utility systems
+-  Real-time crew dispatch integration
+-  Automatic incident deduplication
+-  Historical incident pattern analysis
+-  Operations dashboard & analytics
+-  Mobile-first field reporting
+-  Integrations with existing utility systems
 
 ---
 
